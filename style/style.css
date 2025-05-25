@@ -3,6 +3,7 @@
 *{
 margin: 0px;
 padding: 0px;
+/* background-color: rgb(30, 30, 30); */
 }
 #hero{
 background: linear-gradient(0.00deg, rgb(9, 9, 9) 3.482%,rgba(16, 16, 16, 0) 101.632%),
@@ -58,4 +59,155 @@ color: black;
 .divherobutton{
 text-align: center;
 margin-top: 25px;
+}
+/*box  card start */
+#box-card{
+Width: 1320px;
+margin: 50px auto;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.titlep{
+Font-weight: 500;
+Font-size: 24px;
+opacity: 60%;
+color: rgb(16, 16, 16);
+text-align: center;
+margin-bottom: 20px;
+
+}
+.titleh1{
+Font-weight: 700;
+Font-size: 48px;
+color: rgb(16, 16, 16);
+text-align: center;
+margin-bottom: 20px;
+
+} 
+.card1{
+width: 424px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 24px;
+
+}
+.card1img{
+width: 424px;
+
+}
+.card1img img{
+width: 100%;
+}
+.card1span{
+background-color: rgba(82, 195, 3, 0.15);
+width: 187px;
+border-radius: 8px;
+color: rgb(16, 16, 16);
+font-weight: 600;
+font-size: 24px;
+border: none;
+text-align: center;
+margin-top: 32px;
+padding: 14px 32px;
+}
+.card1h1{
+font-weight: 600;
+font-size: 40px;
+text-align: center;
+color: rgb(16, 16, 16);
+}
+.card1para{
+font-weight: 500;
+font-size: 18px;
+text-align: center;
+color: rgb(16, 16, 16);
+
+}
+/* card number 02 */
+.card2{
+width: 424px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 24px;
+
+}
+.card2img{
+width: 424px;
+
+}
+.card2img img{
+width: 100%;
+}
+.card2span{
+background-color: rgba(82, 195, 3, 0.15);
+width: 187px;
+border-radius: 8px;
+color: rgb(16, 16, 16);
+font-weight: 600;
+font-size: 24px;
+border: none;
+text-align: center;
+margin-top: 32px;
+padding: 14px 32px;
+}
+.card2h1{
+font-weight: 600;
+font-size: 40px;
+text-align: center;
+color: rgb(16, 16, 16);
+}
+.card2para{
+font-weight: 500;
+font-size: 18px;
+text-align: center;
+color: rgb(16, 16, 16);
+
+}
+/* .card3 */
+.card3{
+width: 424px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 24px;
+
+}
+.card3img{
+width: 424px;
+
+}
+.card3img img{
+width: 100%;
+}
+.card3span{
+background-color: rgba(82, 195, 3, 0.15);
+width: 187px;
+border-radius: 8px;
+color: rgb(16, 16, 16);
+font-weight: 600;
+font-size: 24px;
+border: none;
+text-align: center;
+margin-top: 32px;
+padding: 14px 32px;
+}
+.card3h1{
+font-weight: 600;
+font-size: 40px;
+text-align: center;
+color: rgb(16, 16, 16);
+}
+.card3para{
+font-weight: 500;
+font-size: 18px;
+text-align: center;
+color: rgb(16, 16, 16);
+
 }
