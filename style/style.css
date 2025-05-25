@@ -53,7 +53,7 @@ border: none;
 padding: 21px 32px;
 }
 .herobutton:hover{
-background-color: plum;
+background-color: skyblue;
 color: black;
 }
 .divherobutton{
@@ -64,9 +64,13 @@ margin-top: 25px;
 #box-card{
 Width: 1320px;
 margin: 50px auto;
+}
+.allcard{
+margin-top: 40px;
 display: flex;
-justify-content: center;
-align-items: center;
+justify-content: space-between;
+gap: 40px;
+
 
 }
 .titlep{
@@ -210,4 +214,31 @@ font-size: 18px;
 text-align: center;
 color: rgb(16, 16, 16);
 
+}
+.allcardbtu {
+color:rgb(255, 255, 255);
+font-weight: 600;
+font-size: 20px;
+text-align: center;
+background-color: rgb(82, 195, 3);
+border: none;
+width: 212px;
+border-radius: 8px;
+padding: 32px;
+}
+.allcardbtu:hover{
+background-color: hotpink;
+color: black;
+}
+.card1span:hover{
+background-color: black;
+color:white ;
+}
+.card2span:hover{
+background-color: black;
+color:white ;
+}
+.card3span:hover{
+background-color: black;
+color:white ;
 }
