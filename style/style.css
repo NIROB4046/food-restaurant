@@ -242,3 +242,45 @@ color:white ;
 background-color: black;
 color:white ;
 }
+#foodsfather{
+display: flex;
+margin-top: 100px;
+}
+.foodsimg{
+width: 960px;
+}
+.foodsh1{
+font-weight: 700;
+font-size: 48px;
+text-align: center;
+color: rgb(16, 16, 16);
+margin-top: 136px;
+
+}
+.foodspara{
+font-weight: 500;
+font-size: 24px;
+text-align: center;
+color: rgb(16, 16, 16);
+opacity: 60%;
+margin-top: 24px;
+
+}
+.foodsh4{
+font-weight: 600;
+font-size: 32px;
+text-align: center;
+color: rgb(16, 16, 16);
+opacity: 70%;
+margin-top: 78px;
+
+}
+.foodscard{
+background-color: aliceblue;}
+.linkfather{
+text-align: center;
+margin-top: 30px;
+}
+.link{
+margin-right:10px ;
+}
