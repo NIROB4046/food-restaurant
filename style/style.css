@@ -275,12 +275,54 @@ opacity: 70%;
 margin-top: 78px;
 
 }
-.foodscard{
-background-color: aliceblue;}
 .linkfather{
 text-align: center;
 margin-top: 30px;
 }
 .link{
+margin-right:10px ;
+}
+#number4{
+display: flex;
+justify-content: center;
+margin-top: 100px;
+}
+
+/* number 05  */
+#number5{
+background-image: url(../assets/social-bg.png);
+}
+.foodsh12{
+font-weight: 700;
+font-size: 48px;
+text-align: center;
+color: rgb(16, 16, 16);
+margin-top: 100px;
+padding-top: 50px;
+
+}
+.foodspara2{
+font-weight: 500;
+font-size: 24px;
+text-align: center;
+color: rgb(16, 16, 16);
+opacity: 60%;
+margin-top: 24px;
+
+}
+.foodsh42{
+font-weight: 600;
+font-size: 32px;
+text-align: center;
+color: rgb(16, 16, 16);
+opacity: 70%;
+margin-top: 78px;
+
+}
+.linkfather2{
+text-align: center;
+margin-top: 30px;
+}
+.link2{
 margin-right:10px ;
 }
